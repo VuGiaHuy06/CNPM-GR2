@@ -1,5 +1,5 @@
 from flask import Blueprint, request, jsonify
-from services.ban_an_service import BanAnService
+from service.ban_an_service import BanAnService
 from infrastructure.repositories.ban_an_repository import BanAnRepository
 from api.schemas.ban_an import BanAnRequestSchema, BanAnResponseSchema
 
