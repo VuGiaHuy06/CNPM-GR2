@@ -3,9 +3,13 @@
 1.Hướng dẫn cài đặt
 
 Bước 1: Tải xuống và cài đặt Visual Studio Code: Visual Studio Code
+
 Bước 2: Tải xuống và cài đặt Git: Git
+
 Bước 3: Tải xuống và cài đặt Docker: Docker
+
 Bước 4: Tải xuống và cài đặt Python: Python
+
 Bước 5: Tải xuống source code (CMD): git clone https://github.com/VuGiaHuy06/CNPM-GR2.git
 
 2.Chạy app
