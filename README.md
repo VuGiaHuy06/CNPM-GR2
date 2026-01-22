@@ -54,14 +54,21 @@ Truy câp http://localhost:6868/docs Truy câp http://localhost:9999/docs
 Create file .env in folder /src/.env
 
 # Flask settings
+
 FLASK_ENV=development
+
 SECRET_KEY=your_secret_key
 
 # SQL Server settings
+
 DB_USER=sa
+
 DB_PASSWORD=Aa@123456
+
 DB_HOST=127.0.0.1
+
 DB_PORT=1433
+
 DB_NAME=FlaskApiDB
 
 
