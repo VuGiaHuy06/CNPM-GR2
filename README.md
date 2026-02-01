@@ -41,7 +41,9 @@ Bước 3: Cài đặt các thư viện cần thiết
 
 Install:
    pip install PyJWT
+   
    pip install flask
+   
    pip install pyodbc
 
    pip install -r requirements.txt
